@@ -4,10 +4,10 @@
   "description": "Мои модули",
   "modules": [
     {
-      "download_url": "https://raw.githubusercontent.com/serfilipov/bible_module/main/RSTF_plus.zip",
+      "download_url": "https://raw.githubusercontent.com/serfilipov/bible_module/main/RSTF+.zip",
       "file_name": "RSTF+.zip",
       "language_code": "ru",
-      "description": "Синодальный перевод RST+ с правками С. Филиппова",
+      "description": "Синодальный перевод RST+ с правками С. Филиппова: постепенно вносятся изменения с учетом критических наработок современной текстологии, заменяются архаизмы, правятся неточности перевода",
       "update_date": "2026-06-01",
       "update_info": "Начальная версия"
     }
