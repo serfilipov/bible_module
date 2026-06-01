@@ -1,4 +1,6 @@
 {
+  "registry": "filipov.registry.json",
+  "description": "Мои модули",
   "modules": [
     {
       "type": "bible",
