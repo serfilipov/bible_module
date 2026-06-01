@@ -1,14 +1,16 @@
 {
-  "filename": "filipov.registry.json",
-  "description": "Мои модули",
-  "modules": [
-    {
-      "type": "bible",
-      "language": "ru",
-      "abbreviation": "RSTF+",
-      "title": "Синодальный перевод RST с правками С. Филиппова",
-      "url": "https://raw.githubusercontent.com/serfilipov/bible_module/main/RSTF+.zip",
-      "filename": "RSTF+.zip"
-    }
-  ]
+    "filename": "filipov.registry.json",
+    "description": "Мои модули",
+    "modules": [
+        {
+            "type": "bible",
+            "language": "ru",
+            "abbreviation": "RSTF",
+            "title": "Синодальный перевод RST с правками С. Филиппова",
+            "url": "https://raw.githubusercontent.com/serfilipov/bible_module/main/RSTF_plus.zip",
+            "filename": "RSTF_plus.zip",
+            "size": 0,
+            "size_of_zip": 0
+        }
+    ]
 }
